@@ -11,7 +11,7 @@ STEPS = 1000000
 MOVING_AVERAGE_DECAY = 0.99
 MODEL_SAVE_PATH = "./cnn_model/"
 CHECK_POINT = './cnn'
-MODEL_NAME = "mnist_model"
+MODEL_NAME = "model"
 TRAIN_DIR = 'train.TFRecords'
 
 
